@@ -26,3 +26,4 @@ senial=$(grep "^[^;]*;[^;]*;[^;]*;$cod_area;$canal;.*" "Signals&Chanels.dat" | s
 
 #Llamo al api:
 RegistrarVentaPPV "$cod_cliente" "$senial";
+

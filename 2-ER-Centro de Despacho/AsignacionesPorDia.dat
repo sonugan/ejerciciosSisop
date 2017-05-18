@@ -1,0 +1,6 @@
+ID_ASIGNACION;COD_OT;TIPO_OT;ID_CLIENTE;DIRECCION;ID_TECNICO;FECHA_PLAN;ESTADO;FECHA_REAL;COMENTARIO
+1;ORDEN_1;T1;C123;Calle falsa 123;T123;23/05/2017 23:22:21;incompleta;23/05/2017 23:22:21;este es un comentario de pruebas
+2;ORDEN_1;T2;C124;Calle falsa 123;T123;23/05/2017 23:22:21;incompleta;18/05/2017 23:22:21;este es un comentario de pruebas
+3;ORDEN_1;T3;C125;Calle falsa 124;T123;23/05/2017 23:22:21;incompleta;23/05/2017 23:22:21;este es un comentario de pruebas
+3;ORDEN_1;T4;C126;Calle falsa 123;T123;23/05/2017 23:22:21;incompleta;23/05/2017 23:22:21;este es un comentario de pruebas
+5;ORDEN_1;T1;C127;Calle falsa 125;T123;23/05/2017 23:22:21;incompleta;23/05/2017 23:22:21;este es un comentario de pruebas
