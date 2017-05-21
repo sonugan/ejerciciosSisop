@@ -1,0 +1,4 @@
+fecha;tipo_error;cod_app;usuario
+hoy;nada;1;yo
+hoy;ERROR;1;yo
+hoy;ERROR;2;yo

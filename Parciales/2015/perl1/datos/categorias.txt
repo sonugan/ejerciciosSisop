@@ -1,0 +1,5 @@
+correo;gmail
+correo;exchange
+sociales;facebook
+geolocalizacion;maps
+navegacion;chrome
