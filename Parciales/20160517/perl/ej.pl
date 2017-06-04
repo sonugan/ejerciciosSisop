@@ -51,7 +51,7 @@ foreach $pelicula (@lineas){
 
 %generos;
 foreach $archivo (@archivos){
-	if($archivo ne "." && $archivo ne ".."){
+	if($archivo ne "." && $archivo ne ".." && $archivo =~ /.dat$/){
 		open(ARCHI, "<data/$archivo") || die "Error abriendo el archivo $archivo";
 		@lineas=<ARCHI>;
 		close(ARCHI);

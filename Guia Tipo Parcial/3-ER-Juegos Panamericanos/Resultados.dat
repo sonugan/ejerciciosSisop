@@ -1,0 +1,6 @@
+CODIGO_PAIS;NOMBRE_PAIS;CODIGO_DISCIPLINA;NOMBRE_DISCIPLINA;FECHA_FINAL;ORO;PLATA;BRONCE;BATIO_RECORD;COMENTARIOS 
+001;Argentina;01;Voley;esta es una fecha y no me importa;S;S;S;N;Comentario de prueba
+001;Argentina;02;Basquet;esta es una fecha y no me importa;N;S;N;N;Comentario de prueba
+002;Uruguay;01;Voley;esta es una fecha y no me importa;N;N;N;N;Comentario de prueba
+002;Uruguay;02;Basket;esta es una fecha y no me importa;N;N;N;N;Comentario de prueba
+001;Argentina;01;Hockey;esta es una fecha y no me importa;N;N;N;N;Comentario de prueba
